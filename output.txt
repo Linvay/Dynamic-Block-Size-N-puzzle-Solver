@@ -1,9 +1,12 @@
-Total run time = 0.006750 seconds.
+Total run time = 0.001002 seconds.
+An optimal solution has 4 moves:
+L5 U6 L7 U8 
+Total run time = 0.001001 seconds.
+An optimal solution has 3 moves:
+L10 U11 L15 
+Total run time = 0.001999 seconds.
+An optimal solution has 8 moves:
+U2 L6 L6 R7 U8 R7 R8 U7 
+Total run time = 0.003000 seconds.
 An optimal solution has 18 moves:
-U1 R6 D7 L1 D4 R3 U1 L4 L8 U2 R6 D8 L2 D5 R3 U2 L5 U6 
-Total run time = 0.012033 seconds.
-An optimal solution has 16 moves:
-R2 U4 R1 D8 L4 U1 R8 U5 L7 D8 R5 D4 L1 L2 U3 U6 
-Total run time = 0.005998 seconds.
-An optimal solution has 14 moves:
-D4 R3 U2 U1 L7 L8 D6 D5 R3 R2 U1 L4 L5 U6 
+U1 R2 R3 D8 L4 L1 U2 R3 R8 D4 L1 L2 U3 U5 R6 D8 L5 U6 
