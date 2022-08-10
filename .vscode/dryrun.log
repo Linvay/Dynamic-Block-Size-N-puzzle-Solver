@@ -1,0 +1,8 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `c:/Users/Ben/Documents/College/Junior/2022_spring/Artificial Intelligence/Dynamic-Block-Size-N-puzzle-Solver'
+g++  -g  -c -o GameState.o GameState.cpp
+g++  -g  -c -o GameGraph.o GameGraph.cpp
+g++ main_IDS.cpp GameState.o GameGraph.o -o main_IDS
+g++ main_IDAStar.cpp GameState.o GameGraph.o -o main_IDAStar
+make.exe: Leaving directory `c:/Users/Ben/Documents/College/Junior/2022_spring/Artificial Intelligence/Dynamic-Block-Size-N-puzzle-Solver'
+ 
